@@ -1,0 +1,13 @@
+The PlainJS program can be run from the browser by running the live server on the index.html for the PlainJS folder. 
+The ReactJS program can be run from any terminal using npm. 
+    Simply
+        'cd react-task-manager' once you're in the reactJS folder. 
+        'npm start' 
+        If it doesn't automatically pop up, go to localhost:300
+
+Within the PlainJS folder, all functions and features are running great. 
+    - A name can be added and deleted.
+Within the ReactJS folder, when run, once a friend is added, a name does not pop up. 
+    - I used the features (components) to implement other parts of the Friends Facebook Manager such as separating the header, the input, and friends list. 
+    - This is something you can't do in plain JS and is an added feature in ReactJS. 
+
